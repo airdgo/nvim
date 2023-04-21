@@ -1,0 +1,1 @@
+# Airdog nvim config file
